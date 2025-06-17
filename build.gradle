@@ -60,7 +60,7 @@ dependencies {
 
 	// using older dependencies to not force upgrades on repos that might not be able to
 	// handle them. Need to upgrade the services and then upgrade here
-	implementation 'junit:junit:4.9'
+	implementation 'junit:junit:4.13.2'
 	implementation 'org.slf4j:slf4j-api:1.7.7'
 	implementation 'ch.qos.logback:logback-classic:1.1.2'
 	implementation 'commons-io:commons-io:2.4'
